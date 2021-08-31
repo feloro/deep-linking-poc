@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "P232DN5G94.com.fastmarkets.dashboard",
+                "paths": [ "/home/", "/a/*"]
+            }
+        ]
+    }
+}
