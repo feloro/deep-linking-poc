@@ -7,6 +7,12 @@
         "paths": [
           "*"
         ]
+      },
+      {
+        "appID": "98L62ZZ6NZ.com.fastmarkets.dashboard",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
