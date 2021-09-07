@@ -1,2 +1,2 @@
 include: [".well-known"]
-default-mime-type: text/html
+default-mime-type: application/json
