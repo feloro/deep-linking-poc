@@ -5,13 +5,15 @@
       {
         "appID": "P232DN5G94.com.fastmarkets.dashboard",
         "paths": [
-          "*"
+          "/a/*",
+          "/home"
         ]
       },
       {
         "appID": "98L62ZZ6NZ.com.fastmarkets.dashboard",
         "paths": [
-          "*"
+          "/a/*",
+          "/home"
         ]
       }
     ]
