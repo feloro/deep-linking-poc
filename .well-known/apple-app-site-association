@@ -22,13 +22,6 @@
           "/a/*",
           "/home"
         ]
-      },
-      {
-        "appID": "BDM9YG6WQV.com.fastmarkets.dashboard",
-        "paths": [
-          "/a/*",
-          "/home"
-        ]
       }
     ]
   }
