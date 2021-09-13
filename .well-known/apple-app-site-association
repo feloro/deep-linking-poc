@@ -15,7 +15,14 @@
           "/a/*",
           "/home"
         ]
-      }
+      },
+      {
+        "appID": "Q24B59D6AD.com.fastmarkets.dashboard",
+        "paths": [
+          "/a/*",
+          "/home"
+        ]
+      },
     ]
   }
 }
