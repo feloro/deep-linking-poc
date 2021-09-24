@@ -6,21 +6,24 @@
         "appID": "P232DN5G94.com.fastmarkets.dashboard",
         "paths": [
           "/a/*",
-          "/home"
+          "/home",
+          NOT "/temp.html"
         ]
       },
       {
         "appID": "98L62ZZ6NZ.com.fastmarkets.dashboard",
         "paths": [
           "/a/*",
-          "/home"
+          "/home",
+          NOT "/temp.html"
         ]
       },
       {
         "appID": "Q24B59D6AD.com.fastmarkets.dashboard",
         "paths": [
           "/a/*",
-          "/home"
+          "/home",
+          NOT "/temp.html"
         ]
       }
     ]
